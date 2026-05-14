@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src="figures/esro.png" alt="ESRO Logo" width="180"/>
+   <img src="figures/esro.png" alt="ESRO Logo" width="300"/>
 </div>
 
 # Energy Systems Runtime Observatory
@@ -46,6 +46,12 @@ A real-time monitor of local system resources, Docker containers, HPC jobs, and 
    streamlit run dashboard.py
    ```
 
+   <div align="center">
+
+   <img src="figures/display.png" alt="ESRO Dashboard Display" width="60%"/>
+   <br><b>Figure 2:</b> ESRO Dashboard Display
+</div>
+
 ## Usage
 
 
@@ -53,11 +59,6 @@ A real-time monitor of local system resources, Docker containers, HPC jobs, and 
 * Use the sidebar to enable local system monitoring or connect to an HPC cluster.
 * For HPC jobs, enter your SSH credentials in the sidebar or use the example config below.
 
-<div align="center">
-
-   <img src="figures/display.png" alt="ESRO Dashboard Display" width="60%"/>
-   <br><b>Figure 2:</b> ESRO Dashboard Display
-</div>
 
 <div align="center">
    <img src="figures/metrics.png" alt="ESRO Metrics Timeline" width="60%"/>
