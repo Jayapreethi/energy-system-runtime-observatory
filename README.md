@@ -1,7 +1,7 @@
 
 
 <div align="center">
-   <img src="figures/esro.png" alt="ESRO Logo" width="300"/>
+   <img src="figures/esro.png" alt="ESRO Logo" width="500"/>
 </div>
 
 # Energy Systems Runtime Observatory
